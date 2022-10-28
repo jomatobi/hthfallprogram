@@ -6,12 +6,12 @@ As an avid movie watcher, I love diving into everything anything about a movie's
 
 No. | Question
 :-:|:-
-1 | What genre normally ranks the highest?
-2 | How many movies have a perfect IMDB score?
-3 | Which actor appeared in the most movies with the highest ranking?
+1 | How many movies have a perfect IMDB metascore (100)?
+2 | How many movies have a perfect IMDB rating? (10)
+3 | What genre normally ranks the highest in meta_score? 
+5 | Which actor appeared in the most movies with the highest metascore ranking?
 4 | Which director has received the poorest average rating from their movies?
-5 | What is the highest grossing movie from this list?
-6 | Question 
+6 | What is the highest grossing movie from this list?
 7 | Question 
 8 | Question 
 9 | Question 
